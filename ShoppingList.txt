@@ -6,3 +6,5 @@ Bananas
 Carrots
 Mangoes
 Cereals
+Cherries
+Cucumbers
